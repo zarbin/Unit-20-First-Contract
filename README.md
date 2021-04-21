@@ -33,11 +33,13 @@ Splitting transactions locally
 ![Screenshot](/images/mm2.jpg)
 
 ##### How the transferred amount is then distributed by each of the contracts
-
+AssociateProfitSplitter
 ![Screenshot](/images/etherscan.jpg)
 
-
-##### How the timelock functionality can be tested with the fastforward function
+TieredProfitSplitter
+![Screenshot](/images/etherscan2.jpg)
 
 ### Testnet address for others to interact with the contract
-    Testnet address:  0xf620f82d284698c8d04d20572db4720c440f2a82
+    AssociateProfitSplitter Testnet contract address:  0xf620f82d284698c8d04d20572db4720c440f2a82
+    TieredProfitSplitter Testnet contract address:  0xf9d113fdd362500b0af1820055ac71e0b3b3264f
+    DeferredEquityPlan Testnet contract address:  0xa24fadba077d349a41efcd231e54b63cc8fa1a99
