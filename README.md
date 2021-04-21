@@ -18,19 +18,26 @@ Unit 20 Homework
     
 
 ### Screenshots to illustrate the functionality
-
-##### How you send transactions
-1) After the contract is deployed you need to simply fill in a value
-2) Click Deposit
-3) Confirm the transaction in MetaMask
-4) Verify the Balances in Ganage
-5) In the example below 9 ETH is deposited into the contract and split among the 3 associates
+Splitting transactions locally
 
 ![Screenshot](/images/AssociateSplitter.gif)
 
+##### How you send transactions
+1) Open MetaMask
+2) Send a transaction to the contract at address: 0xf620f82d284698c8d04d20572db4720c440f2a82
+3) Confirm the transaction in MetaMask
+4) Verify the transaction on Etherscan: https://ropsten.etherscan.io/tx/0x9f8a45173e7db153342077681dc097d71b9a11f6eb5770128f3efdd9c8997948
+ 
+![Screenshot](/images/mm1.jpg)
+
+![Screenshot](/images/mm2.jpg)
+
 ##### How the transferred amount is then distributed by each of the contracts
+
+![Screenshot](/images/etherscan.jpg)
+
 
 ##### How the timelock functionality can be tested with the fastforward function
 
 ### Testnet address for others to interact with the contract
-    Testnet address:  0x01430178727D36A99dAEeE558C8441B7A20A55A3
+    Testnet address:  0xf620f82d284698c8d04d20572db4720c440f2a82
