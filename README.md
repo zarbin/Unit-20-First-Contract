@@ -2,15 +2,15 @@
 Unit 20 Homework
 
 
-Use and Purpose of Contracts
+### Use and Purpose of Contracts
 
-The AssociateProfitSplitter Contract
+##### The AssociateProfitSplitter Contract
     test
 
-The TieredProfitSplitter Contract
+##### The TieredProfitSplitter Contract
     test
 
-The DeferredEquityPlan Contract
+##### The DeferredEquityPlan Contract
     test
     
 
