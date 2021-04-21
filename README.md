@@ -20,6 +20,12 @@ Unit 20 Homework
 ### Screenshots to illustrate the functionality
 
 ##### How you send transactions
+1) After the contract is deployed you need to simply fill in a value
+2) Click Deposit
+3) Confirm the transaction in MetaMask
+4) Verify the Balances in Ganage
+5) In the example below 9 ETH is deposited into the contract and split among the 3 associates
+
 ![Screenshot](/images/AssociateSplitter.gif)
 
 ##### How the transferred amount is then distributed by each of the contracts
